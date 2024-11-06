@@ -1,0 +1,21 @@
+{
+  "name": "tokopedia_scrape",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ahmedrangel/rand-user-agent": "^2.0.22",
+    "fingerprint-injector": "^2.1.57",
+    "header-generator": "^2.1.57",
+    "puppeteer": "^23.7.0",
+    "rand-user-agent": "^2.0.82",
+    "random-useragent": "^0.5.0",
+    "user-agents": "^1.1.349"
+  }
+}
